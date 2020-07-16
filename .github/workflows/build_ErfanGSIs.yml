@@ -15,8 +15,8 @@ on:
     
 env:
   ROM_URL: https://bigota.d.miui.com/20.1.9/miui_MI6X_20.1.9_fb65eb2b00_9.0.zip
-  ROM_NAME: MIUI
-  TZ: Asia/Shanghai
+  ROM_NAME: MIUI11
+  TZ: Asia/Jiangxi
 
 jobs:
   build:
